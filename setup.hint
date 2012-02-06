@@ -1,4 +1,4 @@
-category: TeX
+category: Publishing
 requires: libgdk_pixbuf2.0_0 libgee2 libglib2.0_0 libgtk2.0_0 libgtksourceview2.0_0 libintl8 libpango1.0_0 libunique1.0_0 libX11_6 texlive texlive-collection-latexrecommended
 sdesc: "GNOME TeX editor"
 ldesc: "LaTeXila is an Integrated LaTeX Environment for the GNOME Desktop."
