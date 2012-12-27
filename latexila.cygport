@@ -1,0 +1,9 @@
+inherit gnome2
+
+NAME="latexila"
+VERSION=2.6.2
+RELEASE=1
+CATEGORY="Publishing"
+REQUIRES="texlive texlive-collection-latexrecommended"
+SUMMARY="GNOME TeX editor"
+DESCRIPTION="LaTeXila is an Integrated LaTeX Environment for the GNOME Desktop."
