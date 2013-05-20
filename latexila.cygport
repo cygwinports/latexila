@@ -1,7 +1,7 @@
 inherit gnome2
 
 NAME="latexila"
-VERSION=2.6.2
+VERSION=2.6.3
 RELEASE=1
 CATEGORY="Publishing"
 REQUIRES="texlive texlive-collection-latexrecommended"
