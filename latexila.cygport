@@ -1,11 +1,9 @@
 inherit gnome2
 
 NAME="latexila"
-VERSION=2.10.1
+VERSION=3.14.4
 RELEASE=1
 CATEGORY="Publishing"
 REQUIRES="texlive texlive-collection-latexrecommended"
 SUMMARY="GNOME TeX editor"
 DESCRIPTION="LaTeXila is an Integrated LaTeX Environment for the GNOME Desktop."
-
-PATCH_URI="2.10.1-glib-gettext.patch"
